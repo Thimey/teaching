@@ -1,0 +1,9 @@
+
+a.foo {
+	padding: 5px 10px;
+	background: #9c3;
+}
+
+a.foo:hover {
+	background: #690;
+}
